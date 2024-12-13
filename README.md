@@ -1,4 +1,4 @@
-install this project 
+install this project <br>
     step1=> git clone https://github.com/karimgouda/back-end-task <br>
     step2 => cd back-end-task & composer update <br>
     step3 => cp .env.example .env <br>
